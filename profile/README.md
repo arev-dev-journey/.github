@@ -1,6 +1,6 @@
-# Welcome to arev-dev-lab 👨‍💻
+# Welcome to arev-dev-journey 👨‍💻
 
-This GitHub organization is a dedicated space for my learning projects, university coursework, tutorials, and technical experiments.
+This GitHub organization shows my journey in learning projects, university coursework, tutorials, and technical experiments.
 
 Here you'll find:
 - 🔹 Course assignments and labs
@@ -10,7 +10,7 @@ Here you'll find:
 
 ---
 
-## Why arev-dev-lab?
+## Why arev-dev-journey?
 
 Keeping my learning separate from my personal GitHub profile helps me:
 - Stay organized
