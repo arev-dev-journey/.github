@@ -25,7 +25,7 @@ Keeping my learning separate from my personal GitHub profile helps me:
 
 A categorized index of my learning projects, academic coursework, tutorials, and technical experiments.
 
-- [cs-cmis242-intermediate-programming](https://github.com/arev-dev-journey/cs-cmis242-intermediate-programmin) — Intermediate Java
+- [cs-cmis242-intermediate-programming](https://github.com/arev-dev-journey/cs-cmis242-intermediate-programming) — Intermediate Java
 - [cs-cmsc350-data-structures](https://github.com/arev-dev-journey/cs-cmsc350-data-structures) — DSA in Java
 - [cs-cmsc330-object-oriented-programming](https://github.com/arev-dev-journey/cs-cmsc330-object-oriented-programming) — OOP in Java
 
