@@ -16,6 +16,33 @@ Keeping my learning separate from my personal GitHub profile helps me:
 - Stay organized
 - Track my growth over time
 - Experiment freely without cluttering my portfolio
+# 🔍 Arev Dev Journey – Project Index
+
+---
+
+## 🎓 Coursework
+
+A categorized index of my learning projects, academic coursework, tutorials, and technical experiments.
+
+- [cs-cmis242-intermediate-programming](https://github.com/arev-dev-journey/cs-cmis242-intermediate-programmin) — Intermediate Java
+- [cs-cmsc350-data-structures](https://github.com/arev-dev-journey/cs-cmsc350-data-structures) — DSA in Java
+- [cs-cmsc330-object-oriented-programming](https://github.com/arev-dev-journey/cs-cmsc330-object-oriented-programming) — OOP in Java
+
+## 📚 Tutorials
+- [tutorial-cpp](https://github.com/arev-dev-journey/tutorial-cpp)
+- [tutorial-python](https://github.com/arev-dev-journey/tutorial-python)
+
+## ☁️ Cloud Projects
+- TBA
+
+## 🧪 Experiments
+- TBA
+
+## 🐍 Language Practice
+- [practice-python-7days](https://github.com/arev-dev-journey/practice-python-7days)
+
+## 🧠 Interview Prep
+- TBA
 
 ---
 
