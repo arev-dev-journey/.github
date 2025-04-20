@@ -16,9 +16,10 @@ Keeping my learning separate from my personal GitHub profile helps me:
 - Stay organized
 - Track my growth over time
 - Experiment freely without cluttering my portfolio
-# 🔍 Arev Dev Journey – Project Index
 
 ---
+
+# 🔍 ARev Dev Journey – Project Index
 
 ## 🎓 Coursework
 
