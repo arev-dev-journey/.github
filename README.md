@@ -27,10 +27,12 @@ A categorized index of my learning projects, academic coursework, tutorials, and
 
 - [cs-cmis242-intermediate-programming](https://github.com/arev-dev-journey/cs-cmis242-intermediate-programaming) — Intermediate Java
 - [cs-cmsc350-data-structures](https://github.com/arev-dev-journey/cs-cmsc350-data-structures) — DSA in Java
-- [cs-cmsc330-object-oriented-programming](https://github.com/arev-dev-journey/cs-cmsc330-object-oriented-programming) — OOP in Java
+- [cs-cmsc330-advanced-programming](https://github.com/arev-dev-journey/cs-cmsc330-advanced-programming) — Advanced Java
+- [cs-cmsc335-object-oriented-and-concurrent-programming](https://github.com/arev-dev-journey/cs-cmsc335-object-oriented-and-concurrent-programming) — OOP in Java
 
 ## 📚 Tutorials
 - [tutorial-cpp](https://github.com/arev-dev-journey/tutorial-cpp)
+- [tutorial-github](https://github.com/arev-dev/journey/tutorial-github)
 - [tutorial-python](https://github.com/arev-dev-journey/tutorial-python)
 
 ## ☁️ Cloud Projects
