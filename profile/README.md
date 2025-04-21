@@ -31,8 +31,10 @@ A categorized index of my learning projects, academic coursework, tutorials, and
 - [cs-cmsc335-object-oriented-and-concurrent-programming](https://github.com/arev-dev-journey/cs-cmsc335-object-oriented-and-concurrent-programming) — OOP in Java
 
 ## 📚 Tutorials
+- [tutorial-aws](https://github.com/arev-dev-journey/tutorial-aws)
 - [tutorial-cpp](https://github.com/arev-dev-journey/tutorial-cpp)
 - [tutorial-github](https://github.com/arev-dev/journey/tutorial-github)
+- [tutorial-java](https://github.com/arev-dev-journey/tutorial-java)
 - [tutorial-python](https://github.com/arev-dev-journey/tutorial-python)
 
 ## ☁️ Cloud Projects
@@ -45,7 +47,7 @@ A categorized index of my learning projects, academic coursework, tutorials, and
 - [practice-python-7days](https://github.com/arev-dev-journey/practice-python-7days)
 
 ## 🧠 Interview Prep
-- TBA
+- [intervew-prep-python](https://github.com/arev-dev-journey/interview-prep-python)
 
 ---
 
