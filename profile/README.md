@@ -33,7 +33,7 @@ A categorized index of my learning projects, academic coursework, tutorials, and
 ## 📚 Tutorials
 - [tutorial-aws](https://github.com/arev-dev-journey/tutorial-aws)
 - [tutorial-cpp](https://github.com/arev-dev-journey/tutorial-cpp)
-- [tutorial-github](https://github.com/arev-dev/journey/tutorial-github)
+- [tutorial-github](https://github.com/arev-dev-journey/tutorial-github)
 - [tutorial-java](https://github.com/arev-dev-journey/tutorial-java)
 - [tutorial-python](https://github.com/arev-dev-journey/tutorial-python)
 
