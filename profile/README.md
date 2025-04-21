@@ -39,7 +39,7 @@ A categorized index of my learning projects, academic coursework, tutorials, and
 - TBA
 
 ## 🧪 Experiments
-- [experiment-python](https://github.com/arev-dev-journey/experiment-python-git-from-scratch)
+- [experiment-python-git-from-scratch](https://github.com/arev-dev-journey/experiment-python-git-from-scratch)
 
 ## 🐍 Language Practice
 - [practice-python-7days](https://github.com/arev-dev-journey/practice-python-7days)
