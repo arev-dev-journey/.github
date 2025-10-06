@@ -15,6 +15,7 @@ Keeping my learning separate from my personal GitHub profile helps me:
 # 🔍 ARev Dev Journey – Project Index
 ## 🎓 Coursework
 A categorized index of my learning projects, academic coursework, tutorials, and technical experiments.
+- [learn-to-code](https://github.com/arev-dev-journey/learn-to-code) - All my coding projects and courses are here
 - [cs-cmis242-intermediate-programming](https://github.com/arev-dev-journey/cs-cmis242-intermediate-programaming) — Intermediate Java
 - [cs-cmsc350-data-structures](https://github.com/arev-dev-journey/cs-cmsc350-data-structures) — DSA in Java
 - [cs-cmsc330-advanced-programming](https://github.com/arev-dev-journey/cs-cmsc330-advanced-programming) — Advanced Java
